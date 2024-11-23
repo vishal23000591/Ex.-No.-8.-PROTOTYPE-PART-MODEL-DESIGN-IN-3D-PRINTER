@@ -72,7 +72,8 @@
 <br>
 
 ## Output:
-![image](https://github.com/user-attachments/assets/06361c4b-c8d8-420e-b448-9964c9f6840f)
+![WhatsApp Image 2024-11-23 at 11 56 53_768f4fed](https://github.com/user-attachments/assets/fc91f05e-0d71-4172-8cef-1c8aec039837)
+
 
 ### Name: VISHAL S
 ### Register Number:212223110063
